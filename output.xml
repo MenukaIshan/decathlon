@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decathlon>
+    <players>
+        <player>
+            <name>John Smith</name>
+            <rank>1</rank>
+            <total_points>4200</total_points>
+            <hundred_metres>12.61</hundred_metres>
+            <long_jump>500.0</long_jump>
+            <shot_put>9.22</shot_put>
+            <high_jump>150.0</high_jump>
+            <four_hundred_metres>60.39</four_hundred_metres>
+            <hundred_and_ten_metres_hurdles>16.43</hundred_and_ten_metres_hurdles>
+            <discus_throw>21.6</discus_throw>
+            <pole_vault>260.0</pole_vault>
+            <javelin_throw>35.81</javelin_throw>
+            <fifteen_hundred_metres>325.72</fifteen_hundred_metres>
+        </player>
+        <player>
+            <name>Jaan Lepp</name>
+            <rank>2</rank>
+            <total_points>3494</total_points>
+            <hundred_metres>13.75</hundred_metres>
+            <long_jump>484.0</long_jump>
+            <shot_put>10.12</shot_put>
+            <high_jump>150.0</high_jump>
+            <four_hundred_metres>68.44</four_hundred_metres>
+            <hundred_and_ten_metres_hurdles>19.18</hundred_and_ten_metres_hurdles>
+            <discus_throw>30.85</discus_throw>
+            <pole_vault>280.0</pole_vault>
+            <javelin_throw>33.88</javelin_throw>
+            <fifteen_hundred_metres>382.75</fifteen_hundred_metres>
+        </player>
+        <player>
+            <name>Jane Doe</name>
+            <rank>3</rank>
+            <total_points>3199</total_points>
+            <hundred_metres>13.04</hundred_metres>
+            <long_jump>453.00003</long_jump>
+            <shot_put>7.79</shot_put>
+            <high_jump>155.0</high_jump>
+            <four_hundred_metres>64.72</four_hundred_metres>
+            <hundred_and_ten_metres_hurdles>18.74</hundred_and_ten_metres_hurdles>
+            <discus_throw>24.2</discus_throw>
+            <pole_vault>240.00002</pole_vault>
+            <javelin_throw>28.2</javelin_throw>
+            <fifteen_hundred_metres>410.76</fifteen_hundred_metres>
+        </player>
+        <player>
+            <name>Foo Bar</name>
+            <rank>4</rank>
+            <total_points>3099</total_points>
+            <hundred_metres>13.43</hundred_metres>
+            <long_jump>435.0</long_jump>
+            <shot_put>8.64</shot_put>
+            <high_jump>150.0</high_jump>
+            <four_hundred_metres>66.06</four_hundred_metres>
+            <hundred_and_ten_metres_hurdles>19.05</hundred_and_ten_metres_hurdles>
+            <discus_throw>24.89</discus_throw>
+            <pole_vault>220.0</pole_vault>
+            <javelin_throw>33.48</javelin_throw>
+            <fifteen_hundred_metres>411.01</fifteen_hundred_metres>
+        </player>
+    </players>
+</decathlon>
